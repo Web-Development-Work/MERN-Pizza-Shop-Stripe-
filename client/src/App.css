@@ -1,0 +1,9 @@
+.carts{
+    color: #ffeb3b;
+    position: absolute;
+    /* top: 20px; */
+    text-align: center;
+    background: #ff0000;
+    width: 25px;
+    border-radius: 1rem;
+}
